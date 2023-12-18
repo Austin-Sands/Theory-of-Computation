@@ -1,0 +1,8 @@
+Code:  32	Char: SP	Count: 1	Huff-Code: 010
+Code:  72	Char: H	Count: 1	Huff-Code: 1111
+Code:  87	Char: W	Count: 1	Huff-Code: 011
+Code:  100	Char: d	Count: 1	Huff-Code: 001
+Code:  101	Char: e	Count: 1	Huff-Code: 000
+Code:  108	Char: l	Count: 3	Huff-Code: 10
+Code:  111	Char: o	Count: 2	Huff-Code: 110
+Code:  114	Char: r	Count: 1	Huff-Code: 1110
